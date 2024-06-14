@@ -26,8 +26,8 @@ Este es un proyecto de ecommerce desarrollado utilizando [NestJS](https://nestjs
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/R7Marl/ecommerce-nestjs.git
+   cd ecommerce-nestjs
    npm install
    npm run start
   ```
